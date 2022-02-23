@@ -1,0 +1,11 @@
+git clone + http copiada do github: copia a pasta criada no git hub para máquina local
+
+cd + nome da pasta: entra entro do repositorio
+
+git status: verifica se está tudo ok com o repositorio e está entro da branch main (dentro da máquina)
+
+git add . / -A: adiciona os arquivos no controle de versão local
+
+git commit -m "comentários": cria um commit local para enviar para a nuvem
+
+git push origin main: envia todos os commits criado localmente para o github
