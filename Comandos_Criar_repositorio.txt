@@ -8,4 +8,14 @@ git add . / -A: adiciona os arquivos no controle de versão local
 
 git commit -m "comentários": cria um commit local para enviar para a nuvem
 
+git remote: verifica se existe algum repositorio remoto
+
+git remote add origin + link do enderço do proejto no git hub: faz associação entre o repositorio local com o remoto
+
+git remote -v: mostra os detalhes dos links remoto existentes
+
+git pull origin main: puxa os arquivos 
+
 git push origin main: envia todos os commits criado localmente para o github
+
+dir: mostra os arquivos existentes na pasta
